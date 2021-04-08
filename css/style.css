@@ -12,3 +12,11 @@
     background-color: #fceae8;
     border-radius: 1em;
 }
+
+input{
+   box-sizing: border-box;
+   margin-top: 2px;
+   padding: 5px!important;
+   line-height: 30px;
+   border: none;
+}
